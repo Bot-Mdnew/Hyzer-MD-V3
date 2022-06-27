@@ -1,13 +1,13 @@
 //=============『 Utama 』================== //
 global.owner = ['6281251549899'] 
 global.mods = ['6281348106274'] 
-global.prems = ['6281251549899] 
+global.prems = ['6281251549899'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'DaniBotz-Ofc'
 global.numberowner = '6281251549899'
 global.instagram = '"_"'
-global.github = 'https://github.com/Hyzerr'
+global.github = 'https://github.com/Bot-Mdnew'
 global.dana = '081251549899'
 global.pulsa = '081352848936'
 global.gopay = '081352848936'
@@ -15,7 +15,7 @@ global.gopay = '081352848936'
 //=============『 Info Bot 』=================//
 global.namebot = 'DaniBotzMd'
 global.gc = 'bit.ly/AnyaBot-Group'
-global.web = 'https://github.com/Hyzerr' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://github.com/Bot-Mdnew' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 5.000\n1 Minggu 3.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
