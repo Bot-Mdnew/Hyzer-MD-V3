@@ -14,9 +14,9 @@ global.gopay = '081352848936'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'DaniBotzMd'
-global.gc = 'bit.ly/AnyaBot-Group'
+global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
 global.web = 'https://github.com/Bot-Mdnew' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 5.000\n1 Minggu 3.000'
+global.price1 = 'Permanen = 10.000\n2 bulan 5.000\n1 Minggu 3.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/c7824625b68e0d3298294.jpg' //ganti jadi foto bot mu
